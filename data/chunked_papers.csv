@@ -1,0 +1,655 @@
+paper_id,title,chunk_id,chunk_text
+0,Lecture Notes: Optimization for Machine Learning,0_0,"Lecture notes on optimization for machine learning, derived from a course at
+Princeton University and tutorials given in MLSS, Buenos Aires, as well as
+Simons Foundation, Berkeley."
+1,An Optimal Control View of Adversarial Machine Learning,1_0,"I describe an optimal control view of adversarial machine learning, where the
+dynamical system is the machine learner, the input are adversarial actions, and
+the control costs are defined by the adversary's goals to do harm and be hard
+to detect."
+1,An Optimal Control View of Adversarial Machine Learning,1_1,"This view encompasses many types of adversarial machine learning,
+including test-item attacks, training-data poisoning, and adversarial reward
+shaping."
+1,An Optimal Control View of Adversarial Machine Learning,1_2,"The view encourages adversarial machine learning researcher to utilize
+advances in control theory and reinforcement learning."
+2,"Minimax deviation strategies for machine learning and recognition with
+  short learning samples",2_0,"The article is devoted to the problem of small learning samples in machine
+learning."
+2,"Minimax deviation strategies for machine learning and recognition with
+  short learning samples",2_1,"The flaws of maximum likelihood learning and minimax learning are
+looked into and the concept of minimax deviation learning is introduced that is
+free of those flaws."
+3,Machine Learning for Clinical Predictive Analytics,3_0,"In this chapter, we provide a brief overview of applying machine learning
+techniques for clinical prediction tasks."
+3,Machine Learning for Clinical Predictive Analytics,3_1,"We begin with a quick introduction to
+the concepts of machine learning and outline some of the most common machine
+learning algorithms."
+3,Machine Learning for Clinical Predictive Analytics,3_2,"Next, we demonstrate how to apply the algorithms with
+appropriate toolkits to conduct machine learning experiments for clinical
+prediction tasks."
+3,Machine Learning for Clinical Predictive Analytics,3_3,"The objectives of this chapter are to (1) understand the
+basics of machine learning techniques and the reasons behind why they are
+useful for solving clinical prediction problems, (2) understand the intuition
+behind some machine learning models, including regression, decision trees, and
+support vector machines, and (3) understand how to apply these models to
+clinical prediction problems using publicly available datasets via case
+studies."
+4,"Towards Modular Machine Learning Solution Development: Benefits and
+  Trade-offs",4_0,"Machine learning technologies have demonstrated immense capabilities in
+various domains. They play a key role in the success of modern businesses."
+4,"Towards Modular Machine Learning Solution Development: Benefits and
+  Trade-offs",4_1,"However, adoption of machine learning technologies has a lot of untouched
+potential."
+4,"Towards Modular Machine Learning Solution Development: Benefits and
+  Trade-offs",4_2,"Cost of developing custom machine learning solutions that solve
+unique business problems is a major inhibitor to far-reaching adoption of
+machine learning technologies."
+4,"Towards Modular Machine Learning Solution Development: Benefits and
+  Trade-offs",4_3,"We recognize that the monolithic nature
+prevalent in today's machine learning applications stands in the way of
+efficient and cost effective customized machine learning solution development."
+4,"Towards Modular Machine Learning Solution Development: Benefits and
+  Trade-offs",4_4,"In this work we explore the benefits of modular machine learning solutions and
+discuss how modular machine learning solutions can overcome some of the major
+solution engineering limitations of monolithic machine learning solutions."
+4,"Towards Modular Machine Learning Solution Development: Benefits and
+  Trade-offs",4_5,"We
+analyze the trade-offs between modular and monolithic machine learning
+solutions through three deep learning problems; one text based and the two
+image based."
+4,"Towards Modular Machine Learning Solution Development: Benefits and
+  Trade-offs",4_6,"Our experimental results show that modular machine learning
+solutions have a promising potential to reap the solution engineering
+advantages of modularity while gaining performance and data advantages in a way
+the monolithic machine learning solutions do not permit."
+5,Introduction to Machine Learning: Class Notes 67577,5_0,"Introduction to Machine learning covering Statistical Inference (Bayes, EM,
+ML/MaxEnt duality), algebraic and spectral methods (PCA, LDA, CCA, Clustering),
+and PAC learning (the Formal model, VC dimension, Double Sampling theorem)."
+6,The Tribes of Machine Learning and the Realm of Computer Architecture,6_0,"Machine learning techniques have influenced the field of computer
+architecture like many other fields."
+6,The Tribes of Machine Learning and the Realm of Computer Architecture,6_1,"This paper studies how the fundamental
+machine learning techniques can be applied towards computer architecture
+problems."
+6,The Tribes of Machine Learning and the Realm of Computer Architecture,6_2,"We also provide a detailed survey of computer architecture research
+that employs different machine learning methods."
+6,The Tribes of Machine Learning and the Realm of Computer Architecture,6_3,"Finally, we present some
+future opportunities and the outstanding challenges that need to be overcome to
+exploit full potential of machine learning for computer architecture."
+7,"A Machine Learning Tutorial for Operational Meteorology, Part I:
+  Traditional Machine Learning",7_0,"Recently, the use of machine learning in meteorology has increased greatly."
+7,"A Machine Learning Tutorial for Operational Meteorology, Part I:
+  Traditional Machine Learning",7_1,"While many machine learning methods are not new, university classes on machine
+learning are largely unavailable to meteorology students and are not required
+to become a meteorologist."
+7,"A Machine Learning Tutorial for Operational Meteorology, Part I:
+  Traditional Machine Learning",7_2,"The lack of formal instruction has contributed to
+perception that machine learning methods are 'black boxes' and thus end-users
+are hesitant to apply the machine learning methods in their every day workflow."
+7,"A Machine Learning Tutorial for Operational Meteorology, Part I:
+  Traditional Machine Learning",7_3,"To reduce the opaqueness of machine learning methods and lower hesitancy
+towards machine learning in meteorology, this paper provides a survey of some
+of the most common machine learning methods."
+7,"A Machine Learning Tutorial for Operational Meteorology, Part I:
+  Traditional Machine Learning",7_4,"A familiar meteorological example
+is used to contextualize the machine learning methods while also discussing
+machine learning topics using plain language."
+7,"A Machine Learning Tutorial for Operational Meteorology, Part I:
+  Traditional Machine Learning",7_5,"The following machine learning
+methods are demonstrated: linear regression; logistic regression; decision
+trees; random forest; gradient boosted decision trees; naive Bayes; and support
+vector machines."
+7,"A Machine Learning Tutorial for Operational Meteorology, Part I:
+  Traditional Machine Learning",7_6,"Beyond discussing the different methods, the paper also
+contains discussions on the general machine learning process as well as best
+practices to enable readers to apply machine learning to their own datasets."
+7,"A Machine Learning Tutorial for Operational Meteorology, Part I:
+  Traditional Machine Learning",7_7,"Furthermore, all code (in the form of Jupyter notebooks and Google Colaboratory
+notebooks) used to make the examples in the paper is provided in an effort to
+catalyse the use of machine learning in meteorology."
+8,Position Paper: Towards Transparent Machine Learning,8_0,"Transparent machine learning is introduced as an alternative form of machine
+learning, where both the model and the learning system are represented in
+source code form."
+8,Position Paper: Towards Transparent Machine Learning,8_1,"The goal of this project is to enable direct human
+understanding of machine learning models, giving us the ability to learn,
+verify, and refine them as programs."
+8,Position Paper: Towards Transparent Machine Learning,8_2,"If solved, this technology could represent
+a best-case scenario for the safety and security of AI systems going forward."
+9,Understanding Bias in Machine Learning,9_0,"Bias is known to be an impediment to fair decisions in many domains such as
+human resources, the public sector, health care etc."
+9,Understanding Bias in Machine Learning,9_1,"Recently, hope has been
+expressed that the use of machine learning methods for taking such decisions
+would diminish or even resolve the problem."
+9,Understanding Bias in Machine Learning,9_2,"At the same time, machine learning
+experts warn that machine learning models can be biased as well."
+9,Understanding Bias in Machine Learning,9_3,"In this
+article, our goal is to explain the issue of bias in machine learning from a
+technical perspective and to illustrate the impact that biased data can have on
+a machine learning model."
+9,Understanding Bias in Machine Learning,9_4,"To reach such a goal, we develop interactive plots to
+visualizing the bias learned from synthetic data."
+10,"A Unified Analytical Framework for Trustable Machine Learning and
+  Automation Running with Blockchain",10_0,"Traditional machine learning algorithms use data from databases that are
+mutable, and therefore the data cannot be fully trusted. Also, the machine
+learning process is difficult to automate."
+10,"A Unified Analytical Framework for Trustable Machine Learning and
+  Automation Running with Blockchain",10_1,"This paper proposes building a
+trustable machine learning system by using blockchain technology, which can
+store data in a permanent and immutable way."
+10,"A Unified Analytical Framework for Trustable Machine Learning and
+  Automation Running with Blockchain",10_2,"In addition, smart contracts are
+used to automate the machine learning process. This paper makes three
+contributions."
+10,"A Unified Analytical Framework for Trustable Machine Learning and
+  Automation Running with Blockchain",10_3,"First, it establishes a link between machine learning technology
+and blockchain technology."
+10,"A Unified Analytical Framework for Trustable Machine Learning and
+  Automation Running with Blockchain",10_4,"Previously, machine learning and blockchain have
+been considered two independent technologies without an obvious link."
+10,"A Unified Analytical Framework for Trustable Machine Learning and
+  Automation Running with Blockchain",10_5,"Second,
+it proposes a unified analytical framework for trustable machine learning by
+using blockchain technology."
+10,"A Unified Analytical Framework for Trustable Machine Learning and
+  Automation Running with Blockchain",10_6,"This unified framework solves both the
+trustability and automation issues in machine learning."
+10,"A Unified Analytical Framework for Trustable Machine Learning and
+  Automation Running with Blockchain",10_7,"Third, it enables a
+computer to translate core machine learning implementation from a single thread
+on a single machine to multiple threads on multiple machines running with
+blockchain by using a unified approach."
+10,"A Unified Analytical Framework for Trustable Machine Learning and
+  Automation Running with Blockchain",10_8,"The paper uses association rule mining
+as an example to demonstrate how trustable machine learning can be implemented
+with blockchain, and it shows how this approach can be used to analyze opioid
+prescriptions to help combat the opioid crisis."
+11,"MLBench: How Good Are Machine Learning Clouds for Binary Classification
+  Tasks on Structured Data?",11_0,"We conduct an empirical study of machine learning functionalities provided by
+major cloud service providers, which we call machine learning clouds."
+11,"MLBench: How Good Are Machine Learning Clouds for Binary Classification
+  Tasks on Structured Data?",11_1,"Machine
+learning clouds hold the promise of hiding all the sophistication of running
+large-scale machine learning: Instead of specifying how to run a machine
+learning task, users only specify what machine learning task to run and the
+cloud figures out the rest."
+11,"MLBench: How Good Are Machine Learning Clouds for Binary Classification
+  Tasks on Structured Data?",11_2,"Raising the level of abstraction, however, rarely
+comes free - a performance penalty is possible. How good, then, are current
+machine learning clouds on real-world machine learning workloads?"
+11,"MLBench: How Good Are Machine Learning Clouds for Binary Classification
+  Tasks on Structured Data?",11_3,"We study this question with a focus on binary classication problems. We
+present mlbench, a novel benchmark constructed by harvesting datasets from
+Kaggle competitions."
+11,"MLBench: How Good Are Machine Learning Clouds for Binary Classification
+  Tasks on Structured Data?",11_4,"We then compare the performance of the top winning code
+available from Kaggle with that of running machine learning clouds from both
+Azure and Amazon on mlbench."
+11,"MLBench: How Good Are Machine Learning Clouds for Binary Classification
+  Tasks on Structured Data?",11_5,"Our comparative study reveals the strength and
+weakness of existing machine learning clouds and points out potential future
+directions for improvement."
+12,Data Pricing in Machine Learning Pipelines,12_0,Machine learning is disruptive.
+12,Data Pricing in Machine Learning Pipelines,12_1,"At the same time, machine learning can only
+succeed by collaboration among many parties in multiple steps naturally as
+pipelines in an eco-system, such as collecting data for possible machine
+learning applications, collaboratively training models by multiple parties and
+delivering machine learning services to end users."
+12,Data Pricing in Machine Learning Pipelines,12_2,"Data is critical and
+penetrating in the whole machine learning pipelines."
+12,Data Pricing in Machine Learning Pipelines,12_3,"As machine learning
+pipelines involve many parties and, in order to be successful, have to form a
+constructive and dynamic eco-system, marketplaces and data pricing are
+fundamental in connecting and facilitating those many parties."
+12,Data Pricing in Machine Learning Pipelines,12_4,"In this article,
+we survey the principles and the latest research development of data pricing in
+machine learning pipelines. We start with a brief review of data marketplaces
+and pricing desiderata."
+12,Data Pricing in Machine Learning Pipelines,12_5,"Then, we focus on pricing in three important steps in
+machine learning pipelines. To understand pricing in the step of training data
+collection, we review pricing raw data sets and data labels."
+12,Data Pricing in Machine Learning Pipelines,12_6,"We also
+investigate pricing in the step of collaborative training of machine learning
+models, and overview pricing machine learning models for end users in the step
+of machine learning deployment."
+12,Data Pricing in Machine Learning Pipelines,12_7,"We also discuss a series of possible future
+directions."
+13,Techniques for Automated Machine Learning,13_0,"Automated machine learning (AutoML) aims to find optimal machine learning
+solutions automatically given a machine learning problem."
+13,Techniques for Automated Machine Learning,13_1,"It could release the
+burden of data scientists from the multifarious manual tuning process and
+enable the access of domain experts to the off-the-shelf machine learning
+solutions without extensive experience."
+13,Techniques for Automated Machine Learning,13_2,"In this paper, we review the current
+developments of AutoML in terms of three categories, automated feature
+engineering (AutoFE), automated model and hyperparameter learning (AutoMHL),
+and automated deep learning (AutoDL)."
+13,Techniques for Automated Machine Learning,13_3,"State-of-the-art techniques adopted in
+the three categories are presented, including Bayesian optimization,
+reinforcement learning, evolutionary algorithm, and gradient-based approaches."
+13,Techniques for Automated Machine Learning,13_4,"We summarize popular AutoML frameworks and conclude with current open
+challenges of AutoML."
+14,"The Landscape of Modern Machine Learning: A Review of Machine,
+  Distributed and Federated Learning",14_0,"With the advance of the powerful heterogeneous, parallel and distributed
+computing systems and ever increasing immense amount of data, machine learning
+has become an indispensable part of cutting-edge technology, scientific
+research and consumer products."
+14,"The Landscape of Modern Machine Learning: A Review of Machine,
+  Distributed and Federated Learning",14_1,"In this study, we present a review of modern
+machine and deep learning. We provide a high-level overview for the latest
+advanced machine learning algorithms, applications, and frameworks."
+14,"The Landscape of Modern Machine Learning: A Review of Machine,
+  Distributed and Federated Learning",14_2,"Our
+discussion encompasses parallel distributed learning, deep learning as well as
+federated learning. As a result, our work serves as an introductory text to the
+vast field of modern machine learning."
+15,"Parallelization of Machine Learning Algorithms Respectively on Single
+  Machine and Spark",15_0,"With the rapid development of big data technologies, how to dig out useful
+information from massive data becomes an essential problem."
+15,"Parallelization of Machine Learning Algorithms Respectively on Single
+  Machine and Spark",15_1,"However, using
+machine learning algorithms to analyze large data may be time-consuming and
+inefficient on the traditional single machine."
+15,"Parallelization of Machine Learning Algorithms Respectively on Single
+  Machine and Spark",15_2,"To solve these problems, this
+paper has made some research on the parallelization of several classic machine
+learning algorithms respectively on the single machine and the big data
+platform Spark."
+15,"Parallelization of Machine Learning Algorithms Respectively on Single
+  Machine and Spark",15_3,"We compare the runtime and efficiency of traditional machine
+learning algorithms with parallelized machine learning algorithms respectively
+on the single machine and Spark platform."
+15,"Parallelization of Machine Learning Algorithms Respectively on Single
+  Machine and Spark",15_4,"The research results have shown
+significant improvement in runtime and efficiency of parallelized machine
+learning algorithms."
+16,AutoCompete: A Framework for Machine Learning Competition,16_0,"In this paper, we propose AutoCompete, a highly automated machine learning
+framework for tackling machine learning competitions."
+16,AutoCompete: A Framework for Machine Learning Competition,16_1,"This framework has been
+learned by us, validated and improved over a period of more than two years by
+participating in online machine learning competitions."
+16,AutoCompete: A Framework for Machine Learning Competition,16_2,"It aims at minimizing
+human interference required to build a first useful predictive model and to
+assess the practical difficulty of a given machine learning challenge."
+16,AutoCompete: A Framework for Machine Learning Competition,16_3,"The
+proposed system helps in identifying data types, choosing a machine learn- ing
+model, tuning hyper-parameters, avoiding over-fitting and optimization for a
+provided evaluation metric."
+16,AutoCompete: A Framework for Machine Learning Competition,16_4,"We also observe that the proposed system produces
+better (or comparable) results with less runtime as compared to other
+approaches."
+17,Joint Training of Deep Boltzmann Machines,17_0,We introduce a new method for training deep Boltzmann machines jointly.
+17,Joint Training of Deep Boltzmann Machines,17_1,"Prior
+methods require an initial learning pass that trains the deep Boltzmann machine
+greedily, one layer at a time, or do not perform well on classifi- cation
+tasks."
+18,"Proceedings of the 2016 ICML Workshop on #Data4Good: Machine Learning in
+  Social Good Applications",18_0,"This is the Proceedings of the ICML Workshop on #Data4Good: Machine Learning
+in Social Good Applications, which was held on June 24, 2016 in New York."
+19,Mathematical Perspective of Machine Learning,19_0,"We take a closer look at some theoretical challenges of Machine Learning as a
+function approximation, gradient descent as the default optimization algorithm,
+limitations of fixed length and width networks and a different approach to RNNs
+from a mathematical perspective."
+20,Private Machine Learning via Randomised Response,20_0,"We introduce a general learning framework for private machine learning based
+on randomised response."
+20,Private Machine Learning via Randomised Response,20_1,"Our assumption is that all actors are potentially
+adversarial and as such we trust only to release a single noisy version of an
+individual's datapoint."
+20,Private Machine Learning via Randomised Response,20_2,"We discuss a general approach that forms a consistent
+way to estimate the true underlying machine learning model and demonstrate this
+in the case of logistic regression."
+21,Ten-year Survival Prediction for Breast Cancer Patients,21_0,"This report assesses different machine learning approaches to 10-year
+survival prediction of breast cancer patients."
+22,A Survey of Optimization Methods from a Machine Learning Perspective,22_0,"Machine learning develops rapidly, which has made many theoretical
+breakthroughs and is widely applied in various fields."
+22,A Survey of Optimization Methods from a Machine Learning Perspective,22_1,"Optimization, as an
+important part of machine learning, has attracted much attention of
+researchers."
+22,A Survey of Optimization Methods from a Machine Learning Perspective,22_2,"With the exponential growth of data amount and the increase of
+model complexity, optimization methods in machine learning face more and more
+challenges."
+22,A Survey of Optimization Methods from a Machine Learning Perspective,22_3,"A lot of work on solving optimization problems or improving
+optimization methods in machine learning has been proposed successively."
+22,A Survey of Optimization Methods from a Machine Learning Perspective,22_4,"The
+systematic retrospect and summary of the optimization methods from the
+perspective of machine learning are of great significance, which can offer
+guidance for both developments of optimization and machine learning research."
+22,A Survey of Optimization Methods from a Machine Learning Perspective,22_5,"In this paper, we first describe the optimization problems in machine learning. Then, we introduce the principles and progresses of commonly used optimization
+methods."
+22,A Survey of Optimization Methods from a Machine Learning Perspective,22_6,"Next, we summarize the applications and developments of optimization
+methods in some popular machine learning fields."
+22,A Survey of Optimization Methods from a Machine Learning Perspective,22_7,"Finally, we explore and give
+some challenges and open problems for the optimization in machine learning."
+23,Tuning Learning Rates with the Cumulative-Learning Constant,23_0,"This paper introduces a novel method for optimizing learning rates in machine
+learning."
+23,Tuning Learning Rates with the Cumulative-Learning Constant,23_1,"A previously unrecognized proportionality between learning rates and
+dataset sizes is discovered, providing valuable insights into how dataset scale
+influences training dynamics."
+23,Tuning Learning Rates with the Cumulative-Learning Constant,23_2,"Additionally, a cumulative learning constant is
+identified, offering a framework for designing and optimizing advanced learning
+rate schedules."
+23,Tuning Learning Rates with the Cumulative-Learning Constant,23_3,"These findings have the potential to enhance training
+efficiency and performance across a wide range of machine learning
+applications."
+24,When Machine Learning Meets Privacy: A Survey and Outlook,24_0,The newly emerged machine learning (e.g.
+24,When Machine Learning Meets Privacy: A Survey and Outlook,24_1,"deep learning) methods have become a
+strong driving force to revolutionize a wide range of industries, such as smart
+healthcare, financial technology, and surveillance systems."
+24,When Machine Learning Meets Privacy: A Survey and Outlook,24_2,"Meanwhile, privacy
+has emerged as a big concern in this machine learning-based artificial
+intelligence era."
+24,When Machine Learning Meets Privacy: A Survey and Outlook,24_3,"It is important to note that the problem of privacy
+preservation in the context of machine learning is quite different from that in
+traditional data privacy protection, as machine learning can act as both friend
+and foe."
+24,When Machine Learning Meets Privacy: A Survey and Outlook,24_4,"Currently, the work on the preservation of privacy and machine
+learning (ML) is still in an infancy stage, as most existing solutions only
+focus on privacy problems during the machine learning process."
+24,When Machine Learning Meets Privacy: A Survey and Outlook,24_5,"Therefore, a
+comprehensive study on the privacy preservation problems and machine learning
+is required. This paper surveys the state of the art in privacy issues and
+solutions for machine learning."
+24,When Machine Learning Meets Privacy: A Survey and Outlook,24_6,"The survey covers three categories of
+interactions between privacy and machine learning: (i) private machine
+learning, (ii) machine learning aided privacy protection, and (iii) machine
+learning-based privacy attack and corresponding protection schemes."
+24,When Machine Learning Meets Privacy: A Survey and Outlook,24_7,"The current
+research progress in each category is reviewed and the key challenges are
+identified."
+24,When Machine Learning Meets Privacy: A Survey and Outlook,24_8,"Finally, based on our in-depth analysis of the area of privacy and
+machine learning, we point out future research directions in this field."
+25,Probabilistic Machine Learning for Healthcare,25_0,"Machine learning can be used to make sense of healthcare data. Probabilistic
+machine learning models help provide a complete picture of observed data in
+healthcare."
+25,Probabilistic Machine Learning for Healthcare,25_1,"In this review, we examine how probabilistic machine learning can
+advance healthcare."
+25,Probabilistic Machine Learning for Healthcare,25_2,"We consider challenges in the predictive model building
+pipeline where probabilistic models can be beneficial including calibration and
+missing data."
+25,Probabilistic Machine Learning for Healthcare,25_3,"Beyond predictive models, we also investigate the utility of
+probabilistic machine learning models in phenotyping, in generative models for
+clinical use cases, and in reinforcement learning."
+26,Evaluation Challenges for Geospatial ML,26_0,"As geospatial machine learning models and maps derived from their predictions
+are increasingly used for downstream analyses in science and policy, it is
+imperative to evaluate their accuracy and applicability."
+26,Evaluation Challenges for Geospatial ML,26_1,"Geospatial machine
+learning has key distinctions from other learning paradigms, and as such, the
+correct way to measure performance of spatial machine learning outputs has been
+a topic of debate."
+26,Evaluation Challenges for Geospatial ML,26_2,"In this paper, I delineate unique challenges of model
+evaluation for geospatial machine learning with global or remotely sensed
+datasets, culminating in concrete takeaways to improve evaluations of
+geospatial model performance."
+27,"A comprehensive review of Quantum Machine Learning: from NISQ to Fault
+  Tolerance",27_0,"Quantum machine learning, which involves running machine learning algorithms
+on quantum devices, has garnered significant attention in both academic and
+business circles."
+27,"A comprehensive review of Quantum Machine Learning: from NISQ to Fault
+  Tolerance",27_1,"In this paper, we offer a comprehensive and unbiased review
+of the various concepts that have emerged in the field of quantum machine
+learning."
+27,"A comprehensive review of Quantum Machine Learning: from NISQ to Fault
+  Tolerance",27_2,"This includes techniques used in Noisy Intermediate-Scale Quantum
+(NISQ) technologies and approaches for algorithms compatible with
+fault-tolerant quantum computing hardware."
+27,"A comprehensive review of Quantum Machine Learning: from NISQ to Fault
+  Tolerance",27_3,"Our review covers fundamental
+concepts, algorithms, and the statistical learning theory pertinent to quantum
+machine learning."
+28,Augmented Q Imitation Learning (AQIL),28_0,"The study of unsupervised learning can be generally divided into two
+categories: imitation learning and reinforcement learning."
+28,Augmented Q Imitation Learning (AQIL),28_1,"In imitation
+learning the machine learns by mimicking the behavior of an expert system
+whereas in reinforcement learning the machine learns via direct environment
+feedback."
+28,Augmented Q Imitation Learning (AQIL),28_2,"Traditional deep reinforcement learning takes a significant time
+before the machine starts to converge to an optimal policy."
+28,Augmented Q Imitation Learning (AQIL),28_3,"This paper proposes
+Augmented Q-Imitation-Learning, a method by which deep reinforcement learning
+convergence can be accelerated by applying Q-imitation-learning as the initial
+training process in traditional Deep Q-learning."
+29,"Towards CRISP-ML(Q): A Machine Learning Process Model with Quality
+  Assurance Methodology",29_0,"Machine learning is an established and frequently used technique in industry
+and academia but a standard process model to improve success and efficiency of
+machine learning applications is still missing."
+29,"Towards CRISP-ML(Q): A Machine Learning Process Model with Quality
+  Assurance Methodology",29_1,"Project organizations and
+machine learning practitioners have a need for guidance throughout the life
+cycle of a machine learning application to meet business expectations."
+29,"Towards CRISP-ML(Q): A Machine Learning Process Model with Quality
+  Assurance Methodology",29_2,"We
+therefore propose a process model for the development of machine learning
+applications, that covers six phases from defining the scope to maintaining the
+deployed machine learning application."
+29,"Towards CRISP-ML(Q): A Machine Learning Process Model with Quality
+  Assurance Methodology",29_3,"The first phase combines business and
+data understanding as data availability oftentimes affects the feasibility of
+the project."
+29,"Towards CRISP-ML(Q): A Machine Learning Process Model with Quality
+  Assurance Methodology",29_4,"The sixth phase covers state-of-the-art approaches for monitoring
+and maintenance of a machine learning applications, as the risk of model
+degradation in a changing environment is eminent."
+29,"Towards CRISP-ML(Q): A Machine Learning Process Model with Quality
+  Assurance Methodology",29_5,"With each task of the
+process, we propose quality assurance methodology that is suitable to adress
+challenges in machine learning development that we identify in form of risks."
+29,"Towards CRISP-ML(Q): A Machine Learning Process Model with Quality
+  Assurance Methodology",29_6,"The methodology is drawn from practical experience and scientific literature
+and has proven to be general and stable."
+29,"Towards CRISP-ML(Q): A Machine Learning Process Model with Quality
+  Assurance Methodology",29_7,"The process model expands on CRISP-DM,
+a data mining process model that enjoys strong industry support but lacks to
+address machine learning specific tasks."
+29,"Towards CRISP-ML(Q): A Machine Learning Process Model with Quality
+  Assurance Methodology",29_8,"Our work proposes an industry and
+application neutral process model tailored for machine learning applications
+with focus on technical tasks for quality assurance."
+30,"Temporal-related Convolutional-Restricted-Boltzmann-Machine capable of
+  learning relational order via reinforcement learning procedure?",30_0,"In this article, we extend the conventional framework of
+convolutional-Restricted-Boltzmann-Machine to learn highly abstract features
+among abitrary number of time related input maps by constructing a layer of
+multiplicative units, which capture the relations among inputs."
+30,"Temporal-related Convolutional-Restricted-Boltzmann-Machine capable of
+  learning relational order via reinforcement learning procedure?",30_1,"In many cases,
+more than two maps are strongly related, so it is wise to make multiplicative
+unit learn relations among more input maps, in other words, to find the optimal
+relational-order of each unit."
+30,"Temporal-related Convolutional-Restricted-Boltzmann-Machine capable of
+  learning relational order via reinforcement learning procedure?",30_2,"In order to enable our machine to learn
+relational order, we developed a reinforcement-learning method whose optimality
+is proven to train the network."
+31,Spatial Transfer Learning with Simple MLP,31_0,"First step to investigate the potential of transfer learning applied to the
+field of spatial statistics"
+32,"Proceedings of the 29th International Conference on Machine Learning
+  (ICML-12)",32_0,"This is an index to the papers that appear in the Proceedings of the 29th
+International Conference on Machine Learning (ICML-12)."
+32,"Proceedings of the 29th International Conference on Machine Learning
+  (ICML-12)",32_1,"The conference was held
+in Edinburgh, Scotland, June 27th - July 3rd, 2012."
+33,Distributed Multi-Task Learning with Shared Representation,33_0,"We study the problem of distributed multi-task learning with shared
+representation, where each machine aims to learn a separate, but related, task
+in an unknown shared low-dimensional subspaces, i.e."
+33,Distributed Multi-Task Learning with Shared Representation,33_1,"when the predictor matrix
+has low rank."
+33,Distributed Multi-Task Learning with Shared Representation,33_2,"We consider a setting where each task is handled by a different
+machine, with samples for the task available locally on the machine, and study
+communication-efficient methods for exploiting the shared structure."
+34,Components of Machine Learning: Binding Bits and FLOPS,34_0,"Many machine learning problems and methods are combinations of three
+components: data, hypothesis space and loss function."
+34,Components of Machine Learning: Binding Bits and FLOPS,34_1,"Different machine
+learning methods are obtained as combinations of different choices for the
+representation of data, hypothesis space and loss function."
+34,Components of Machine Learning: Binding Bits and FLOPS,34_2,"After reviewing the
+mathematical structure of these three components, we discuss intrinsic
+trade-offs between statistical and computational properties of machine learning
+methods."
+35,Impact of Legal Requirements on Explainability in Machine Learning,35_0,"The requirements on explainability imposed by European laws and their
+implications for machine learning (ML) models are not always clear."
+35,Impact of Legal Requirements on Explainability in Machine Learning,35_1,"In that
+perspective, our research analyzes explanation obligations imposed for private
+and public decision-making, and how they can be implemented by machine learning
+techniques."
+36,Machine Learning Potential Repository,36_0,"This paper introduces a machine learning potential repository that includes
+Pareto optimal machine learning potentials."
+36,Machine Learning Potential Repository,36_1,"It also shows the systematic
+development of accurate and fast machine learning potentials for a wide range
+of elemental systems."
+36,Machine Learning Potential Repository,36_2,"As a result, many Pareto optimal machine learning
+potentials are available in the repository from a website."
+36,Machine Learning Potential Repository,36_3,"Therefore, the
+repository will help many scientists to perform accurate and fast atomistic
+simulations."
+37,Quantum memristors for neuromorphic quantum machine learning,37_0,"Quantum machine learning may permit to realize more efficient machine
+learning calculations with near-term quantum devices."
+37,Quantum memristors for neuromorphic quantum machine learning,37_1,"Among the diverse quantum
+machine learning paradigms which are currently being considered, quantum
+memristors are promising as a way of combining, in the same quantum hardware, a
+unitary evolution with the nonlinearity provided by the measurement and
+feedforward."
+37,Quantum memristors for neuromorphic quantum machine learning,37_2,"Thus, an efficient way of deploying neuromorphic quantum computing
+for quantum machine learning may be enabled."
+38,metric-learn: Metric Learning Algorithms in Python,38_0,"metric-learn is an open source Python package implementing supervised and
+weakly-supervised distance metric learning algorithms."
+38,metric-learn: Metric Learning Algorithms in Python,38_1,"As part of
+scikit-learn-contrib, it provides a unified interface compatible with
+scikit-learn which allows to easily perform cross-validation, model selection,
+and pipelining with other machine learning estimators."
+38,metric-learn: Metric Learning Algorithms in Python,38_2,"metric-learn is
+thoroughly tested and available on PyPi under the MIT licence."
+39,Theoretical Models of Learning to Learn,39_0,"A Machine can only learn if it is biased in some way. Typically the bias is
+supplied by hand, for example through the choice of an appropriate set of
+features."
+39,Theoretical Models of Learning to Learn,39_1,"However, if the learning machine is embedded within an {\em
+environment} of related tasks, then it can {\em learn} its own bias by learning
+sufficiently many tasks from the environment."
+39,Theoretical Models of Learning to Learn,39_2,"In this paper two models of bias
+learning (or equivalently, learning to learn) are introduced and the main
+theoretical results presented."
+39,Theoretical Models of Learning to Learn,39_3,"The first model is a PAC-type model based on
+empirical process theory, while the second is a hierarchical Bayes model."
+40,"An Aggregate and Iterative Disaggregate Algorithm with Proven Optimality
+  in Machine Learning",40_0,"We propose a clustering-based iterative algorithm to solve certain
+optimization problems in machine learning, where we start the algorithm by
+aggregating the original data, solving the problem on aggregated data, and then
+in subsequent steps gradually disaggregate the aggregated data."
+40,"An Aggregate and Iterative Disaggregate Algorithm with Proven Optimality
+  in Machine Learning",40_1,"We apply the
+algorithm to common machine learning problems such as the least absolute
+deviation regression problem, support vector machines, and semi-supervised
+support vector machines."
+40,"An Aggregate and Iterative Disaggregate Algorithm with Proven Optimality
+  in Machine Learning",40_2,"We derive model-specific data aggregation and
+disaggregation procedures. We also show optimality, convergence, and the
+optimality gap of the approximated solution in each iteration."
+40,"An Aggregate and Iterative Disaggregate Algorithm with Proven Optimality
+  in Machine Learning",40_3,"A computational
+study is provided."
+41,Human-in-the-loop Machine Learning: A Macro-Micro Perspective,41_0,"Though technical advance of artificial intelligence and machine learning has
+enabled many promising intelligent systems, many computing tasks are still not
+able to be fully accomplished by machine intelligence."
+41,Human-in-the-loop Machine Learning: A Macro-Micro Perspective,41_1,"Motivated by the
+complementary nature of human and machine intelligence, an emerging trend is to
+involve humans in the loop of machine learning and decision-making."
+41,Human-in-the-loop Machine Learning: A Macro-Micro Perspective,41_2,"In this
+paper, we provide a macro-micro review of human-in-the-loop machine learning. We first describe major machine learning challenges which can be addressed by
+human intervention in the loop."
+41,Human-in-the-loop Machine Learning: A Macro-Micro Perspective,41_3,"Then we examine closely the latest research and
+findings of introducing humans into each step of the lifecycle of machine
+learning."
+41,Human-in-the-loop Machine Learning: A Macro-Micro Perspective,41_4,"Finally, we analyze current research gaps and point out future
+research directions."
+42,Can Machines Learn the True Probabilities?,42_0,"When there exists uncertainty, AI machines are designed to make decisions so
+as to reach the best expected outcomes."
+42,Can Machines Learn the True Probabilities?,42_1,"Expectations are based on true facts
+about the objective environment the machines interact with, and those facts can
+be encoded into AI models in the form of true objective probability functions."
+42,Can Machines Learn the True Probabilities?,42_2,"Accordingly, AI models involve probabilistic machine learning in which the
+probabilities should be objectively interpreted."
+42,Can Machines Learn the True Probabilities?,42_3,"We prove under some basic
+assumptions when machines can learn the true objective probabilities, if any,
+and when machines cannot learn them."
+43,On-the-Fly Learning in a Perpetual Learning Machine,43_0,"Despite the promise of brain-inspired machine learning, deep neural networks
+(DNN) have frustratingly failed to bridge the deceptively large gap between
+learning and memory."
+43,On-the-Fly Learning in a Perpetual Learning Machine,43_1,"Here, we introduce a Perpetual Learning Machine; a new
+type of DNN that is capable of brain-like dynamic 'on the fly' learning because
+it exists in a self-supervised state of Perpetual Stochastic Gradient Descent."
+43,On-the-Fly Learning in a Perpetual Learning Machine,43_2,"Thus, we provide the means to unify learning and memory within a machine
+learning framework. We also explore the elegant duality of abstraction and
+synthesis: the Yin and Yang of deep learning."
+44,Scientific Machine Learning Benchmarks,44_0,"The breakthrough in Deep Learning neural networks has transformed the use of
+AI and machine learning technologies for the analysis of very large
+experimental datasets."
+44,Scientific Machine Learning Benchmarks,44_1,"These datasets are typically generated by large-scale
+experimental facilities at national laboratories."
+44,Scientific Machine Learning Benchmarks,44_2,"In the context of science,
+scientific machine learning focuses on training machines to identify patterns,
+trends, and anomalies to extract meaningful scientific insights from such
+datasets."
+44,Scientific Machine Learning Benchmarks,44_3,"With a new generation of experimental facilities, the rate of data
+generation and the scale of data volumes will increasingly require the use of
+more automated data analysis."
+44,Scientific Machine Learning Benchmarks,44_4,"At present, identifying the most appropriate
+machine learning algorithm for the analysis of any given scientific dataset is
+still a challenge for scientists."
+44,Scientific Machine Learning Benchmarks,44_5,"This is due to many different machine
+learning frameworks, computer architectures, and machine learning models."
+44,Scientific Machine Learning Benchmarks,44_6,"Historically, for modelling and simulation on HPC systems such problems have
+been addressed through benchmarking computer applications, algorithms, and
+architectures."
+44,Scientific Machine Learning Benchmarks,44_7,"Extending such a benchmarking approach and identifying metrics
+for the application of machine learning methods to scientific datasets is a new
+challenge for both scientists and computer scientists."
+44,Scientific Machine Learning Benchmarks,44_8,"In this paper, we
+describe our approach to the development of scientific machine learning
+benchmarks and review other approaches to benchmarking scientific machine
+learning."
+45,Some Insights into Lifelong Reinforcement Learning Systems,45_0,"A lifelong reinforcement learning system is a learning system that has the
+ability to learn through trail-and-error interaction with the environment over
+its lifetime."
+45,Some Insights into Lifelong Reinforcement Learning Systems,45_1,"In this paper, I give some arguments to show that the traditional
+reinforcement learning paradigm fails to model this type of learning system."
+45,Some Insights into Lifelong Reinforcement Learning Systems,45_2,"Some insights into lifelong reinforcement learning are provided, along with a
+simplistic prototype lifelong reinforcement learning system."
+46,Bayesian Optimization for Machine Learning : A Practical Guidebook,46_0,"The engineering of machine learning systems is still a nascent field; relying
+on a seemingly daunting collection of quickly evolving tools and best
+practices."
+46,Bayesian Optimization for Machine Learning : A Practical Guidebook,46_1,"It is our hope that this guidebook will serve as a useful resource
+for machine learning practitioners looking to take advantage of Bayesian
+optimization techniques."
+46,Bayesian Optimization for Machine Learning : A Practical Guidebook,46_2,"We outline four example machine learning problems that
+can be solved using open source machine learning libraries, and highlight the
+benefits of using Bayesian optimization in the context of these common machine
+learning applications."
+47,Towards A Rigorous Science of Interpretable Machine Learning,47_0,"As machine learning systems become ubiquitous, there has been a surge of
+interest in interpretable machine learning: systems that provide explanation
+for their outputs."
+47,Towards A Rigorous Science of Interpretable Machine Learning,47_1,"These explanations are often used to qualitatively assess
+other criteria such as safety or non-discrimination."
+47,Towards A Rigorous Science of Interpretable Machine Learning,47_2,"However, despite the
+interest in interpretability, there is very little consensus on what
+interpretable machine learning is and how it should be measured."
+47,Towards A Rigorous Science of Interpretable Machine Learning,47_3,"In this
+position paper, we first define interpretability and describe when
+interpretability is needed (and when it is not)."
+47,Towards A Rigorous Science of Interpretable Machine Learning,47_4,"Next, we suggest a taxonomy
+for rigorous evaluation and expose open questions towards a more rigorous
+science of interpretable machine learning."
+48,Solving machine learning optimization problems using quantum computers,48_0,"Classical optimization algorithms in machine learning often take a long time
+to compute when applied to a multi-dimensional problem and require a huge
+amount of CPU and GPU resource."
+48,Solving machine learning optimization problems using quantum computers,48_1,"Quantum parallelism has a potential to speed up
+machine learning algorithms. We describe a generic mathematical model to
+leverage quantum parallelism to speed-up machine learning algorithms."
+48,Solving machine learning optimization problems using quantum computers,48_2,"We also
+apply quantum machine learning and quantum parallelism applied to a
+$3$-dimensional image that vary with time."
+49,Infrastructure for Usable Machine Learning: The Stanford DAWN Project,49_0,"Despite incredible recent advances in machine learning, building machine
+learning applications remains prohibitively time-consuming and expensive for
+all but the best-trained, best-funded engineering organizations."
+49,Infrastructure for Usable Machine Learning: The Stanford DAWN Project,49_1,"This expense
+comes not from a need for new and improved statistical models but instead from
+a lack of systems and tools for supporting end-to-end machine learning
+application development, from data preparation and labeling to
+productionization and monitoring."
+49,Infrastructure for Usable Machine Learning: The Stanford DAWN Project,49_2,"In this document, we outline opportunities
+for infrastructure supporting usable, end-to-end machine learning applications
+in the context of the nascent DAWN (Data Analytics for What's Next) project at
+Stanford."
